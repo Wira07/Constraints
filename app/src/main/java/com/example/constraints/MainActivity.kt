@@ -10,9 +10,12 @@ import com.example.constraints.databinding.ActivityMainBinding
 class MainActivity : AppCompatActivity() {
 
     private val splashTimeOut: Long = 3000
+
     private lateinit var binding: ActivityMainBinding
     private lateinit var topAnim: Animation
     private lateinit var bottomAnim: Animation
+
+    
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -32,5 +35,6 @@ class MainActivity : AppCompatActivity() {
             startActivity(intent)
             finish()
         }, splashTimeOut)
+
     }
 }
