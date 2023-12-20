@@ -48,7 +48,7 @@ View repository and user information, control your notifications and even manage
 **Available for both iOS and Android.**
 
 <p align="center">
-  <img src ="https://github.com/Wira07/Constraints/blob/master/app/src/main/res/drawable/seafood.png" width=1350 height=2000>
+  <img src ="https://github.com/Wira07/Constraints/blob/master/app/src/main/res/drawable/seafood.png" width=1350 height=1350>
 </p>
 
 ## Features
