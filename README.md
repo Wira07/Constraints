@@ -1,6 +1,6 @@
-<h1 align="center"> GitPoint </h1> <br>
+<h1 align="center"> MyProduct Best </h1> <br>
 <p align="center">
-  <a href="https://gitpoint.co/">
+  <a href="">
     <img alt="GitPoint" title="GitPoint" src="https://github.com/Wira07/Constraints/blob/master/app/src/main/res/drawable/logo.png" width="450">
   </a>
 </p>
