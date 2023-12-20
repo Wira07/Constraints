@@ -30,11 +30,17 @@
     </string-array>
 
     <integer-array name="data_photo">
-        <item>@drawable/laptop</item>
-        <item>@drawable/mackbook</item>
-        <item>@drawable/setup_laptop</item>
-        <item>@drawable/house</item>
-        <item>@drawable/can</item>
+        <item>@drawable/margherita</item>
+        <item>@drawable/margherita_flatbread</item>
+        <item>@drawable/four_cheese_delight</item>
+        <item>@drawable/original_crispy_chicken</item>
+        <item>@drawable/quinoa_salad_bowl</item>
+        <item>@drawable/shrimp_scampi</item>
+        <item>@drawable/spicy_jalapeno_burger</item>
+        <item>@drawable/spinach_and_feta_stuffed_chicken</item>
+        <item>@drawable/teriyaki_chicken_wings</item>
+        <item>@drawable/vegetarian_pad_thai</item>
+        <item>@drawable/beef_stir_fry_with_broccoli</item>
     </integer-array>
 
 
