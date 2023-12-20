@@ -1,6 +1,7 @@
 package com.example.constraints
 
 import android.os.Bundle
+import android.view.WindowManager
 import android.view.animation.Animation
 import androidx.appcompat.app.AppCompatActivity
 import com.example.constraints.databinding.ActivityMainBinding
@@ -13,6 +14,7 @@ class MainActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
+//        window.setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN,WindowManager.LayoutParams.FLAG_FULLSCREEN)
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
@@ -23,7 +25,7 @@ class MainActivity : AppCompatActivity() {
         // Set animations to ImageView and Logo using ViewBinding
         binding.imageView.startAnimation(topAnim)
         binding.text1.startAnimation(bottomAnim)
-
+        binding.text2.startAnimation(bottomAnim)
 
     }
 

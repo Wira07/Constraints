@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Constraints</string>
     <string name="app_name2">Login</string>
-    <string name="pemula">Wira Sukma Saputra</string>
+    <string name="pemula">Aplikasi Seafood Versi Lite Pengembangan</string>
     <string name="description">Dalam contoh ini, saya menggunakan tanda kutip ganda di sekitar string untuk memungkinkan interpolasi variabel. Hasilnya akan tetap sama dengan menggunakan operator penggabungan string (.), tetapi dengan menggunakan interpolasi, sintaksnya menjadi lebih ringkas.</string>
     <string name="heroes_name">Wira Sukma Saputra</string>
 

@@ -32,7 +32,9 @@ class SplashScreenActivity : AppCompatActivity() {
             startActivity(intent)
             finish()
         }, splashTimeOut)
+
     }
+
 }
 
 
