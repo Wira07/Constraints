@@ -1,7 +1,6 @@
 package com.example.constraints
 
 import android.os.Bundle
-import android.view.WindowManager
 import android.view.animation.Animation
 import androidx.appcompat.app.AppCompatActivity
 import com.example.constraints.databinding.ActivityMainBinding
