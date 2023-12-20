@@ -1,7 +1,7 @@
 <h1 align="center"> GitPoint </h1> <br>
 <p align="center">
   <a href="https://gitpoint.co/">
-    <img alt="GitPoint" title="GitPoint" src="[http://i.imgur.com/VShxJHs.png](https://github.com/Wira07/Constraints/blob/master/app/src/main/res/drawable/logo.png)" width="450">
+    <img alt="GitPoint" title="GitPoint" src="[http://i.imgur.com/VShxJHs.png](https://github.com/Wira07/Constraints/blob/master/app/src/main/res/drawable/logo.png)]" width="450">
   </a>
 </p>
 
