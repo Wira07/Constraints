@@ -4,6 +4,8 @@
     <string name="pemula">Aplikasi Seafood Versi Lite Pengembangan</string>
     <string name="description">Dalam contoh ini, saya menggunakan tanda kutip ganda di sekitar string untuk memungkinkan interpolasi variabel. Hasilnya akan tetap sama dengan menggunakan operator penggabungan string (.), tetapi dengan menggunakan interpolasi, sintaksnya menjadi lebih ringkas.</string>
     <string name="heroes_name">Wira Sukma Saputra</string>
+    <string name="hello">Hello there, Welcome Back</string>
+    <string name="signin">Sign In To Continue</string>
 
     <string-array name="data_name">
         <item>Ahmad Dahlan</item>
