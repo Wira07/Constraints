@@ -6,6 +6,8 @@
     <string name="heroes_name">Wira Sukma Saputra</string>
     <string name="hello">Hello there, Welcome Back</string>
     <string name="signin">Sign In To Continue</string>
+    <string name="get_started">Get Started</string>
+    <string name="Forgot_Your_Password">Forgot Your Password</string>
 
     <string-array name="data_name">
         <item>Ahmad Dahlan</item>
